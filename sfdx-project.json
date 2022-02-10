@@ -1,11 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "unpackaged",
+      "path": "force-app",
       "default": true
     }
   ],
-  "namespace": "",
+  "namespace": "rika-dev",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
 }
